@@ -1,0 +1,6 @@
+[submodule "fsc-nemc-app"]
+	path = fsc-nemc-app
+	url = https://github.com/fjah90/fsc-nemc-app.git
+[submodule "fsc-nemc-api"]
+	path = fsc-nemc-api
+	url = https://github.com/fjah90/fsc-nemc-api.git
